@@ -1,5 +1,5 @@
 >the component of a cell or organism that initiates the chain of events leading to the drug's observed effects
-### functions
+## functions
 1. **determine quantitative relation between dose/concentration and physiological effect**
 	- receptor affinity determines concentration of drug needed
 	- receptor amount determines maximal effect

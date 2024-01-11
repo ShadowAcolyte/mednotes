@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/microbiology/fungi.md",
+                "file": "docs/pharmacology/drug-toxicity-and-metabolism.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/microbiology/fungi.md",
+                "file": "docs/pharmacology/drug-toxicity-and-metabolism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/microbiology/fungi.md",
+                "file": "docs/pharmacology/drug-toxicity-and-metabolism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/microbiology/fungi.md"
+                "file": "docs/pharmacology/drug-toxicity-and-metabolism.md"
               }
             }
           },
@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,9 +158,19 @@
   },
   "active": "b57b4e663b122e87",
   "lastOpenFiles": [
-    "docs/pharmacology/tubulin.md",
+    "docs/pharmacology/acetaminophen-napqi-toxicity.png",
+    "docs/pharmacology/drug-toxicity-and-metabolism.md",
+    "docs/pharmacology/nonmonotonic-drug-response-curves.png",
+    "docs/pharmacology/conventional-dose-response-curve.png",
+    "docs/pharmacology/u-shape-dose-response-cruve.png",
+    "docs/pharmacology/hockey-stick-shaped-drug-response-curve.png",
+    "docs/pharmacology/pharmacodynamics.md",
+    "Pasted image 20240111212529.png",
     "docs/microbiology/fungi.md",
     "docs/pharmacology/colchicine.md",
+    "docs/pharmacology/receptors.md",
+    "docs/tetanus.md",
+    "docs/pharmacology/tubulin.md",
     "docs/index.md",
     "docs/microbiology",
     "README.md",
@@ -171,8 +180,6 @@
     "Note 1.md",
     "docs/pathology/cell injury, cell death and adaptation.md",
     "docs/pathology",
-    "docs/pharmacology/receptors.md",
-    "docs/pharmacology/pharmacodynamics.md",
     "docs/pharmacology",
     "pharmacology/tubulin.md",
     "New Text Document.txt",
