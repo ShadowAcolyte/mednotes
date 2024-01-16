@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9fd91e0a24e29cc4",
+        "id": "ce4a2808d54fce8d",
         "type": "tabs",
         "children": [
           {
-            "id": "b57b4e663b122e87",
+            "id": "ea3298946ba7cb22",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/pharmacology/drug-toxicity-and-metabolism.md",
+                "file": "docs/pathology/Inflammation and Repair.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/pharmacology/drug-toxicity-and-metabolism.md",
+                "file": "docs/pathology/Inflammation and Repair.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/pharmacology/drug-toxicity-and-metabolism.md",
+                "file": "docs/pathology/Inflammation and Repair.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/pharmacology/drug-toxicity-and-metabolism.md"
+                "file": "docs/pathology/Inflammation and Repair.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -157,29 +157,33 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "67dab87e111dfb40",
+  "active": "ea3298946ba7cb22",
   "lastOpenFiles": [
-    "docs/pharmacology/acetaminophen-napqi-toxicity.png",
+    "docs/pathology/inflammation-event-sequence.png",
+    "docs/pathology/inflammation-exudates-transudates-formation.png",
+    "docs/pathology/inflammation-formation-of-exudates-and-transudates.png",
+    "docs/pathology/Inflammation and Repair.md",
+    "docs/pathology/NOD-like receptors (NLRs).md",
     "docs/pharmacology/drug-toxicity-and-metabolism.md",
+    "Toll-like receptors (TLRs).md",
+    "docs/pathology/cell injury, cell death and adaptation.md",
+    "docs/pharmacology/receptors.md",
+    "docs/pharmacology/pharmacodynamics.md",
     "docs/pharmacology/nonmonotonic-drug-response-curves.png",
     "docs/pharmacology/conventional-dose-response-curve.png",
+    "docs/pharmacology/colchicine.md",
+    "docs/pharmacology/acetaminophen-napqi-toxicity.png",
     "docs/pharmacology/u-shape-dose-response-cruve.png",
     "docs/pharmacology/hockey-stick-shaped-drug-response-curve.png",
-    "docs/pharmacology/pharmacodynamics.md",
     "Pasted image 20240111212529.png",
     "docs/microbiology/fungi.md",
-    "docs/pharmacology/colchicine.md",
-    "docs/pharmacology/receptors.md",
     "docs/tetanus.md",
     "docs/pharmacology/tubulin.md",
     "docs/index.md",
     "docs/microbiology",
     "README.md",
     "2021-11-22-22-54-02.png",
-    "2021-11-22-22-52-49.png",
-    "2021-11-22-22-49-26.png",
     "Note 1.md",
-    "docs/pathology/cell injury, cell death and adaptation.md",
     "docs/pathology",
     "docs/pharmacology",
     "pharmacology/tubulin.md",
@@ -194,12 +198,10 @@
     "community-medicine/health.md",
     "pathology",
     "notes.md",
-    "Pasted image 20240102102451.png",
     "community-medicine",
     "female internal genitalia.md",
     "ob-gyn/female genital tract anatomy.md",
     "ob-gyn",
-    "pharmacology",
-    "Excalidraw/Drawing 2023-12-05 18.45.07.excalidraw.md"
+    "pharmacology"
   ]
 }
