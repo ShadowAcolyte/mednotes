@@ -128,3 +128,4 @@ Margination - process of leukocyte redistribution, where the cells assume a peri
 		- Viral infections - lymphocytes arrive first.
 		- Hypersensitivity - lymphocytes, macrophages, plasma cells.
 		- Helminthic/allergic - eosinophils.
+## Phagocytosis and Clearance of Offending Agent
