@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/pathology/Inflammation and Repair.md",
+                "file": "docs/medicine/History Taking.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/pathology/Inflammation and Repair.md",
+                "file": "docs/medicine/History Taking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/pathology/Inflammation and Repair.md",
+                "file": "docs/medicine/History Taking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/pathology/Inflammation and Repair.md"
+                "file": "docs/medicine/History Taking.md"
               }
             }
           },
@@ -159,10 +159,12 @@
   },
   "active": "ea3298946ba7cb22",
   "lastOpenFiles": [
+    "docs/pathology/Inflammation and Repair.md",
+    "docs/medicine/History Taking.md",
+    "docs/medicine",
     "docs/pathology/inflammation-event-sequence.png",
     "docs/pathology/inflammation-exudates-transudates-formation.png",
     "docs/pathology/inflammation-formation-of-exudates-and-transudates.png",
-    "docs/pathology/Inflammation and Repair.md",
     "docs/pathology/NOD-like receptors (NLRs).md",
     "docs/pharmacology/drug-toxicity-and-metabolism.md",
     "Toll-like receptors (TLRs).md",
